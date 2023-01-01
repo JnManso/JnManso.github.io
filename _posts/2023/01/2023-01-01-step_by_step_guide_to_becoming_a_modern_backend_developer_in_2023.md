@@ -9,6 +9,6 @@ summary:
 
 Let's start the year by revisiting all the knowledge we need to be a great backend developer.
 
-![select language](/assets/images/2023/01/backend.jpg)
+![Backend developer roadmap](/assets/images/2023/01/backend.jpg)
 
 Find detailed version of this roadmap here: [roadmap.sh](**https://duckduckgo.com**).
