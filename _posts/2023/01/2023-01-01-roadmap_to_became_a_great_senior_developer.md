@@ -11,4 +11,4 @@ Another useful step by step how to become a senior developer that I found out be
 
 ![Senior developer roadmap](/assets/images/2023/01/SeniorDeveloperRoadmap.jpg)
 
-You can find a detailed version of this roadmap and more information about it here: [The Senior Developer Roadmap, α version](**https://github.com/glennsantos/senior-developer-roadmap**).
+You can find a detailed version of this roadmap and more information about it here: [The Senior Developer Roadmap, α version](https://github.com/glennsantos/senior-developer-roadmap).
