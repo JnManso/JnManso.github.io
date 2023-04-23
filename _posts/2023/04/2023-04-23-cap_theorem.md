@@ -1,12 +1,11 @@
 ---
 title: CAP theorem
-date: 2023-04-23 18:40
+date: 2023-04-23 18:15
 category:
 author:
 tags: [programming, algorithms]
 summary:
 ---
-
 
 ## Understanding Algorithm Complexity
 Big O notation is a mathematical tool that allows us to express the time and space complexity of algorithms in a clear and concise way. It's an essential concept in computer science, as it helps us analyze the efficiency of algorithms and make informed decisions about which ones to use in different situations.
